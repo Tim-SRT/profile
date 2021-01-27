@@ -63,9 +63,10 @@ a:hover {
   list-style: none;
   padding-left: 0px;
 }
-#navigation {
-  color: red;
+#navigation a {
+  color: #A5C882;
 }
+
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
