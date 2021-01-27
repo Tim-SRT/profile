@@ -51,7 +51,7 @@ a:hover {
   text-align: center;
 }
 
-.btn-blue {
+.btn-green {
   background-color: #A5C882;
   color: white;
   padding: 9px 13px;
@@ -63,7 +63,9 @@ a:hover {
   list-style: none;
   padding-left: 0px;
 }
-
+#navigation {
+  color: red;
+}
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
